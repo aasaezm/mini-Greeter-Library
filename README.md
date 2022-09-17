@@ -1,1 +1,1 @@
-# miniGreeter-Library
+# mini-Greeter-Library
